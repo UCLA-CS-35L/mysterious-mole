@@ -1,0 +1,4 @@
+BasedOnStyle: WebKit
+BreakBeforeBraces: Allman
+ColumnLimit: 120
+SortIncludes: CaseSensitive
